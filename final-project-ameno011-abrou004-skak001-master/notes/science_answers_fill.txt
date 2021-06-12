@@ -1,0 +1,6 @@
+bee
+butterfly
+six
+giraffe
+migrate
+fruit
